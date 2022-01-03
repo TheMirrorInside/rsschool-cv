@@ -67,6 +67,12 @@ I have good communication skills, held team lead positions.
 - Markdown
 - Prometheus
 
+## Languages
+| Language | Level |
+| --- | --- |
+| Russian | Native |
+| English | B2 |
+
 ## My Education
 1. **Moscow Power Engineering Institute**
 	- MSc in Computer Science, Sep 2012 - Jul 2015

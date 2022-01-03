@@ -6,6 +6,8 @@
 - Phone: [8 (926) 535-61-34](tel:+79265356134)
 - GitHub: [TheMirrorInside](https://github.com/TheMirrorInside/)
 
+![It should be me](https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png "But for now it's placeholder from wiki")
+
 ## Short Description
 I’m 30 years old. I have experience in industrial and process automation, PLC programming, SCADA implementation.
 

@@ -18,6 +18,28 @@ I’m also experienced in design principles of the Internet of Things, web appli
 I have good communication skills, held team lead positions.
 
 ## My experience
+1. Company: [RTSoft / RTSoft-SG / INTELAB Moscow, RU](https://rtsoft.ru)
+	- Position: Microgrid SW/HW dev team lead
+		- Date: Sep 2018 - Current
+		- Responsibilities:
+			- Design and implementation of microgrid control and energy management systems
+			- Cloud infrastructure design and administration
+			- Research activity (optimization algorithms, weather/load forecasting, energy storage control systems)
+			- Technical requirements preparation and analysis
+1. Company: [PJSC Mobile Energy Moscow, RU](http://передвижная-энергетика.рф/)
+	- Position: ACS Lead Engineer
+		- Date: Sep 2016 - Aug 2018
+		- Responsibilities:
+			- Design and implementation of the control system for wind-diesel power plant
+			- Design and implementation of wind/solar power plants and weather monitoring system
+	- Position: ACS Engineer
+		- Date: Jun 2013 - Sep 2016
+		- Responsibilities:
+			- Mathematical models synthesis and verification
+			- Turboshafts control system development
+			- Research activity (microgrid control, wind-diesel power plant control systems, power electronics)
+
+## My Skills
 ### Industrial automation
 - MELSEC
 - CoDeSYS

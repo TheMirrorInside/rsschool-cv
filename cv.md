@@ -71,7 +71,7 @@ I have good communication skills, held team lead positions.
 
 ## Languages
 | Language | Level |
-| :-: | :-: |
+| :---: | :---: |
 | Russian | Native |
 | English | B2 |
 

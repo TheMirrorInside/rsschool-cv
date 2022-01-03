@@ -70,10 +70,10 @@ I have good communication skills, held team lead positions.
 - Prometheus
 
 ## Languages
-| Language | Level |
-| :---: | :---: |
-| Russian | Native |
-| English | B2 |
+| Language	 | Level	 |
+| ---		 | ---		 |
+| Russian	 | Native	 |
+| English	 | B2		 |
 
 ## My Education
 1. **Moscow Power Engineering Institute**

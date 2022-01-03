@@ -1,9 +1,9 @@
 # Ivan Minayev CV
 
-## Basic Information
+## Basic Information and Contacts
 - Name: Ivan Minayev
-- E-mail: mithrandir1991@gmail.com
-- Phone: +7 (926) 535-61-34
+- E-mail: [mithrandir1991@gmail.com](mailto:mithrandir1991@gmail.com)
+- Phone: [+7 (926) 535-61-34](tel:+79265356134)
 - GitHub: [TheMirrorInside](https://github.com/TheMirrorInside/)
 
 ## Short Description
@@ -46,10 +46,6 @@ I have good communication skills, held team lead positions.
 - Prometheus
 
 ## My Education
-| Moscow Power Engineering Institute |  |
-| -- | -- |
-| MSc in Computer Science | Sep 2012 - Jul 2015 |
-
-| Moscow Power Engineering Institute |  |
-| -- | -- |
-| BSE in Computer Science | Sep 2008 - Jul 2012 |
+1. **Moscow Power Engineering Institute**
+	- MSc in Computer Science, Sep 2012 - Jul 2015
+	- BSE in Computer Science, Sep 2008 - Jul 2012

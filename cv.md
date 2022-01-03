@@ -3,7 +3,7 @@
 ## Basic Information and Contacts
 - Name: Ivan Minayev
 - E-mail: [mithrandir1991@gmail.com](mailto:mithrandir1991@gmail.com)
-- Phone: [+7 (926) 535-61-34](tel:+79265356134)
+- Phone: [8 (926) 535-61-34](tel:+79265356134)
 - GitHub: [TheMirrorInside](https://github.com/TheMirrorInside/)
 
 ## Short Description

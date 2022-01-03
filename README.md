@@ -1,1 +1,1 @@
-# rsschool-cv
+https://themirrorinside.github.io/rsschool-cv/

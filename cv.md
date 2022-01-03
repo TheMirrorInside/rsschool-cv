@@ -4,6 +4,7 @@
 - Name: Ivan Minayev
 - E-mail: mithrandir1991@gmail.com
 - Phone: +7 (926) 535-61-34
+- GitHub: [TheMirrorInside](https://github.com/TheMirrorInside/)
 
 ## Short Description
 I’m 30 years old. I have experience in industrial and process automation, PLC programming, SCADA implementation.
